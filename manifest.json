@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Lilac",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(35, 35, 35)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(18, 18, 18)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(157, 137, 226)",
+      "popup": "rgb(35, 35, 35)",
+      "popup_text": "rgb(255, 255, 255)",
+      "tab_loading": "rgb(157, 137, 226)"
+    }
+  }
+}
